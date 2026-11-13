@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/34807590/README.md)
-# California-Hospital-Network---Performance-Intelligence-An# California Hospital Network: Performance & Utilization Intelligence
+# California-Hospital-Network---Performance-Intelligence Analytics
 
 An 11-page Power BI report built on California hospital utilization data (HCAI annual report). It answers one question: **where is pressure building in the hospital network, and what should be read with care?**
 
