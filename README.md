@@ -72,13 +72,7 @@ An 11-page Power BI report built on California hospital utilization data (HCAI a
 
 Power BI Desktop, Power Query (M), DAX, Python (pandas) for preparation and validation.
 
-## Repository structure (suggested)
-
 ```
-/data        cleaned tables and data dictionary
-/model       DAX measures and relationship diagram
-/report      .pbix, theme (JSON), PDF export, screenshots
-/docs        methodology, insights summary
 README.md
 ```
 
