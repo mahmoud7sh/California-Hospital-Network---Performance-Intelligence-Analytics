@@ -1,0 +1,80 @@
+{
+  "name": "Hospital Intelligence v2",
+  "dataColors": ["#163A5F", "#1F7896", "#2A9D8F", "#E9A23B", "#C65353", "#64748B", "#7FB3C8", "#0F766E", "#A3B1C2", "#102A43"],
+  "background": "#FFFFFF",
+  "foreground": "#1E293B",
+  "tableAccent": "#163A5F",
+  "good": "#2A9D8F",
+  "neutral": "#E9A23B",
+  "bad": "#C65353",
+  "maximum": "#163A5F",
+  "center": "#7FB3C8",
+  "minimum": "#E6F0F4",
+  "textClasses": {
+    "callout": { "fontSize": 28, "fontFace": "Segoe UI Semibold", "color": "#163A5F" },
+    "title": { "fontSize": 13, "fontFace": "Segoe UI Semibold", "color": "#163A5F" },
+    "header": { "fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#163A5F" },
+    "label": { "fontSize": 10, "fontFace": "Segoe UI", "color": "#64748B" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "show": true, "fontColor": { "solid": { "color": "#163A5F" } }, "fontSize": 13, "fontFamily": "Segoe UI Semibold" }],
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E2E8F0" } }, "radius": 6 }]
+      }
+    },
+    "clusteredBarChart": {
+      "*": {
+        "categoryAxis": [{ "show": true, "labelColor": { "solid": { "color": "#64748B" } }, "fontSize": 10, "showAxisTitle": false }],
+        "valueAxis": [{ "show": true, "labelColor": { "solid": { "color": "#64748B" } }, "fontSize": 10, "showAxisTitle": false, "gridlineColor": { "solid": { "color": "#E2E8F0" } }, "gridlineThickness": 1 }],
+        "labels": [{ "show": true, "color": { "solid": { "color": "#1E293B" } }, "fontSize": 10 }],
+        "legend": [{ "show": true, "position": "Bottom", "labelColor": { "solid": { "color": "#64748B" } }, "fontSize": 10 }]
+      }
+    },
+    "clusteredColumnChart": {
+      "*": {
+        "categoryAxis": [{ "show": true, "labelColor": { "solid": { "color": "#64748B" } }, "fontSize": 10, "showAxisTitle": false }],
+        "valueAxis": [{ "show": true, "labelColor": { "solid": { "color": "#64748B" } }, "fontSize": 10, "showAxisTitle": false, "gridlineColor": { "solid": { "color": "#E2E8F0" } }, "gridlineThickness": 1 }],
+        "labels": [{ "show": true, "color": { "solid": { "color": "#1E293B" } }, "fontSize": 10 }],
+        "legend": [{ "show": true, "position": "Bottom", "labelColor": { "solid": { "color": "#64748B" } }, "fontSize": 10 }]
+      }
+    },
+    "stackedBarChart": {
+      "*": {
+        "categoryAxis": [{ "show": true, "labelColor": { "solid": { "color": "#64748B" } }, "fontSize": 10, "showAxisTitle": false }],
+        "valueAxis": [{ "show": true, "labelColor": { "solid": { "color": "#64748B" } }, "fontSize": 10, "showAxisTitle": false, "gridlineColor": { "solid": { "color": "#E2E8F0" } }, "gridlineThickness": 1 }],
+        "legend": [{ "show": true, "position": "Bottom", "labelColor": { "solid": { "color": "#64748B" } }, "fontSize": 10 }]
+      }
+    },
+    "scatterChart": {
+      "*": {
+        "categoryAxis": [{ "show": true, "labelColor": { "solid": { "color": "#64748B" } }, "fontSize": 10, "gridlineColor": { "solid": { "color": "#E2E8F0" } } }],
+        "valueAxis": [{ "show": true, "labelColor": { "solid": { "color": "#64748B" } }, "fontSize": 10, "gridlineColor": { "solid": { "color": "#E2E8F0" } } }]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "columnHeaders": [{ "fontColor": { "solid": { "color": "#FFFFFF" } }, "backColor": { "solid": { "color": "#163A5F" } }, "fontSize": 10, "fontFamily": "Segoe UI Semibold" }],
+        "values": [{ "fontColor": { "solid": { "color": "#1E293B" } }, "fontSize": 10, "backColor": { "solid": { "color": "#FFFFFF" } }, "backColorSecondary": { "solid": { "color": "#F5F7FA" } } }]
+      }
+    },
+    "pivotTable": {
+      "*": {
+        "columnHeaders": [{ "fontColor": { "solid": { "color": "#FFFFFF" } }, "backColor": { "solid": { "color": "#163A5F" } }, "fontSize": 10 }],
+        "values": [{ "fontColor": { "solid": { "color": "#1E293B" } }, "fontSize": 10 }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [{ "show": true, "fontColor": { "solid": { "color": "#64748B" } }, "fontSize": 10 }],
+        "items": [{ "fontColor": { "solid": { "color": "#1E293B" } }, "fontSize": 10 }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F5F7FA" } }, "transparency": 0 }]
+      }
+    }
+  }
+}
