@@ -2,9 +2,10 @@
 
 ## Dashboard Preview
 
-![Executive Overview](Screenshots/01_Overview.png)
+![Executive Overview](<img width="1522" height="880" alt="01_overview" src="https://github.com/user-attachments/assets/ba2a90fd-8037-4139-93af-9b2736f29b3a" />
+)
 
-[View the complete 11-page dashboard walkthrough](PATH_TO_YOUR_PDF)
+[View the complete 11-page dashboard walkthrough](Report/California Hospital Network - Performance Intelligence.pdf)
 An 11-page Power BI report built on California hospital utilization data (HCAI annual report). It answers one question: **where is pressure building in the hospital network, and what should be read with care?**
 
 > One reporting year, 501 hospitals, 55 counties. All findings are descriptive; none implies causation or clinical quality.
@@ -74,7 +75,7 @@ An 11-page Power BI report built on California hospital utilization data (HCAI a
 
 ## Tools
 
-Power BI Desktop, Power Query (M), DAX, Python (pandas) for preparation and validation.
+Power BI Desktop, Power Query , DAX, Python (pandas) for preparation and validation ,AI TOOLS .
 
 ```
 README.md
