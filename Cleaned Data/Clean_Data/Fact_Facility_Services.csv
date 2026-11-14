@@ -1,0 +1,502 @@
+﻿FAC_NO,ANESTHESIOLOGIST_AVAILABILITY,LAB_AVAILABILITY,OPER_RM_AVAILABILITY,PHARMACIST_AVAILABILITY,PHYSICIAN_AVAILABILITY,PSYCHIATRIC_ER_AVAILABILITY,RADIOLOGY_AVAILABILITY
+106010735,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106010739,On-Call,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106010776,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106010811,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106010844,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106010846,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106010887,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106010937,On-Call,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106010967,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106010983,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106010987,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106013619,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106013626,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106013687,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106014034,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106014050,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106014132,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106014207,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106014226,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106014233,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106014326,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106014337,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106034002,On-Call,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106040802,Not Available,24-Hour,Not Available,On-Call,24-Hour,Not Available,On-Call
+106040828,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106040937,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106040962,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106044006,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106044011,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106050932,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,24-Hour
+106060870,On-Call,On-Call,On-Call,On-Call,24-Hour,Not Available,On-Call
+106070924,24-Hour,24-Hour,On-Call,On-Call,24-Hour,24-Hour,24-Hour
+106070934,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106070988,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106070990,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106071018,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106074011,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106074017,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106074039,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106074093,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106074097,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106084001,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106090793,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106090933,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106094002,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106100005,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106100697,Not Available,24-Hour,Not Available,24-Hour,24-Hour,Not Available,On-Call
+106100717,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106100793,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106100797,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106100899,On-Call,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106104008,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106104023,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106104047,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106104062,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106104089,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106105029,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106105051,Not Available,Not Available,Not Available,On-Call,24-Hour,Not Available,Not Available
+106105125,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106120981,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106121002,On-Call,24-Hour,On-Call,On-Call,24-Hour,24-Hour,24-Hour
+106121031,Not Available,On-Call,Not Available,On-Call,24-Hour,Not Available,On-Call
+106121051,On-Call,24-Hour,On-Call,On-Call,24-Hour,24-Hour,On-Call
+106121080,On-Call,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106124004,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106130699,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,24-Hour
+106130760,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106141273,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,On-Call
+106141338,Not Available,On-Call,Not Available,On-Call,On-Call,Not Available,On-Call
+106150020,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106150021,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106150706,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106150722,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106150736,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106150737,Not Available,24-Hour,Not Available,On-Call,24-Hour,Not Available,24-Hour
+106150761,On-Call,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106150775,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106150782,Not Available,24-Hour,24-Hour,On-Call,24-Hour,Not Available,24-Hour
+106150788,On-Call,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106150820,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106154022,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106154044,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106154101,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106154108,On-Call,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106154160,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106154168,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106164029,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106171049,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106171395,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106184008,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106190017,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106190020,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190021,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190034,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106190045,Not Available,On-Call,Not Available,On-Call,24-Hour,Not Available,On-Call
+106190049,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190052,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190053,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190066,On-Call,On-Call,Not Available,On-Call,On-Call,Not Available,Not Available
+106190081,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106190110,On-Call,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106190125,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106190137,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190148,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190150,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190155,Not Available,On-Call,Not Available,On-Call,24-Hour,Not Available,On-Call
+106190163,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190170,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190176,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190184,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190196,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190197,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106190198,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190200,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106190232,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190240,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106190243,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190256,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190280,24-Hour,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,24-Hour
+106190298,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106190305,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190315,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106190317,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190323,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106190328,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190352,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106190380,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106190382,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106190385,Not Available,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190392,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106190400,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190413,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106190422,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190429,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106190431,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106190432,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106190434,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190449,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190458,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190462,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190470,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190500,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,On-Call
+106190517,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190521,24-Hour,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106190522,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106190524,On-Call,On-Call,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106190525,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106190529,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190547,On-Call,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106190552,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190555,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106190568,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106190570,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190587,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106190599,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190630,24-Hour,Not Available,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106190631,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190636,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190646,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190661,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,On-Call
+106190673,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106190680,On-Call,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106190681,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190687,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190696,On-Call,24-Hour,On-Call,On-Call,24-Hour,24-Hour,24-Hour
+106190708,24-Hour,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,24-Hour
+106190754,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190756,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106190758,On-Call,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106190782,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190796,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106190812,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106190818,On-Call,24-Hour,On-Call,24-Hour,24-Hour,Not Available,On-Call
+106190857,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190859,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106190878,On-Call,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106190883,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106190930,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106190949,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106190958,Not Available,Not Available,Not Available,Not Available,24-Hour,Not Available,24-Hour
+106191216,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106191225,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106191227,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106191228,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106191230,Not Available,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106191231,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106191306,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106191450,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106194010,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106194219,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106194967,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106194981,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106196035,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106196168,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106196403,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106196404,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106196405,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106197931,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106198495,Not Available,Not Available,Not Available,Not Available,On-Call,Not Available,Not Available
+106200030,Not Available,On-Call,Not Available,24-Hour,24-Hour,Not Available,On-Call
+106204019,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106210992,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106210993,Not Available,On-Call,Not Available,On-Call,On-Call,Not Available,On-Call
+106211006,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106214034,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,24-Hour
+106220733,Not Available,24-Hour,Not Available,24-Hour,24-Hour,Not Available,24-Hour
+106231013,On-Call,On-Call,On-Call,On-Call,24-Hour,Not Available,On-Call
+106231396,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106234038,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106240924,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,24-Hour
+106240942,On-Call,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106244027,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106250955,Not Available,On-Call,Not Available,Not Available,On-Call,Not Available,On-Call
+106254005,Not Available,On-Call,Not Available,On-Call,On-Call,Not Available,On-Call
+106260011,On-Call,On-Call,On-Call,On-Call,24-Hour,On-Call,On-Call
+106270020,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106270744,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106270777,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,On-Call
+106270875,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106274043,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106281047,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106281078,On-Call,24-Hour,On-Call,24-Hour,On-Call,On-Call,On-Call
+106281266,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106291023,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106291053,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106300020,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106300032,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106300225,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106301097,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106301098,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106301127,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106301140,On-Call,24-Hour,On-Call,On-Call,24-Hour,24-Hour,24-Hour
+106301155,On-Call,On-Call,On-Call,On-Call,24-Hour,On-Call,On-Call
+106301167,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106301175,On-Call,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106301188,24-Hour,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,On-Call
+106301205,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106301209,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106301234,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106301248,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106301258,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,24-Hour
+106301262,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106301279,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106301283,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106301297,On-Call,24-Hour,On-Call,Not Available,24-Hour,On-Call,24-Hour
+106301317,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106301337,On-Call,24-Hour,On-Call,On-Call,24-Hour,24-Hour,24-Hour
+106301340,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106301342,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106301357,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,On-Call
+106301379,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106301380,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106301566,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,On-Call
+106304039,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106304045,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106304113,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106304159,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106304306,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106304409,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106304460,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106304583,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106304585,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106304589,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106310791,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106311000,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106314024,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106314029,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106320859,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,On-Call
+106320986,On-Call,24-Hour,On-Call,Not Available,24-Hour,Not Available,24-Hour
+106321016,Not Available,On-Call,Not Available,Not Available,On-Call,Not Available,On-Call
+106330120,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106331145,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106331152,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106331164,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106331168,On-Call,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106331194,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106331216,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106331226,Not Available,On-Call,Not Available,On-Call,On-Call,Not Available,On-Call
+106331288,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,On-Call
+106331293,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106331312,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106331326,On-Call,24-Hour,24-Hour,On-Call,24-Hour,Not Available,24-Hour
+106332172,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106334001,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106334018,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106334025,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106334048,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106334068,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106334457,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106334487,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106334533,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106334564,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106334589,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106334678,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106340025,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106340041,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106340913,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106340947,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106340950,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106340951,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106341006,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106341051,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106341326,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106342344,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106342392,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106344011,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106344017,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106344021,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106344029,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106344035,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106344114,On-Call,On-Call,On-Call,On-Call,24-Hour,On-Call,On-Call
+106344170,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106344188,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106344210,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106350784,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,On-Call
+106361110,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,On-Call
+106361144,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106361166,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106361223,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106361245,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106361246,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106361266,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,24-Hour
+106361274,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106361308,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106361318,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106361323,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,24-Hour
+106361339,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106361343,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106361370,24-Hour,24-Hour,On-Call,On-Call,24-Hour,Not Available,24-Hour
+106361458,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,24-Hour
+106361768,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106362041,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,24-Hour
+106364014,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106364050,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106364121,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106364144,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106364188,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106364231,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106364265,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106364268,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106364430,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,24-Hour
+106364451,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106364502,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106370028,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106370033,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106370652,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106370658,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106370673,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106370689,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106370694,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106370695,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106370714,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106370721,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106370730,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106370744,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106370745,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106370749,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106370759,On-Call,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106370771,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106370780,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106370782,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106370875,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106370977,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106371256,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106371394,On-Call,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106374024,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106374049,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106374055,Not Available,On-Call,Not Available,On-Call,24-Hour,24-Hour,On-Call
+106374094,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106374141,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106374382,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106374465,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106374572,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106380046,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106380842,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106380857,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106380865,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106380895,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106380933,On-Call,On-Call,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106380939,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106380960,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106380965,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106381154,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106382715,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106384176,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106384200,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106384202,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106384238,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106390846,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106390923,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106391010,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106391042,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106391056,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,24-Hour
+106392232,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106392287,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,On-Call
+106394003,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106394009,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106394128,Not Available,On-Call,Not Available,On-Call,On-Call,Not Available,On-Call
+106400466,On-Call,On-Call,On-Call,On-Call,24-Hour,On-Call,On-Call
+106400480,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106400524,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,On-Call
+106400548,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106400683,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106404046,Not Available,On-Call,Not Available,On-Call,On-Call,Not Available,Not Available
+106410782,On-Call,24-Hour,On-Call,On-Call,24-Hour,24-Hour,24-Hour
+106410806,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106410817,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106410828,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106410852,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106410891,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,24-Hour
+106414139,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106420483,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106420491,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,On-Call
+106420493,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106420514,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106420522,Not Available,On-Call,Not Available,On-Call,24-Hour,On-Call,24-Hour
+106424002,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106424047,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106430035,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106430705,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106430743,On-Call,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106430763,On-Call,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106430779,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106430837,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106430883,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106430905,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106430915,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106431506,24-Hour,24-Hour,On-Call,24-Hour,24-Hour,Not Available,24-Hour
+106434032,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106434040,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106434051,On-Call,On-Call,On-Call,On-Call,On-Call,Not Available,On-Call
+106434138,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106434153,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106434218,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106434220,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106440755,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106444012,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106444013,On-Call,24-Hour,On-Call,On-Call,24-Hour,Not Available,24-Hour
+106444029,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106450936,Not Available,On-Call,Not Available,On-Call,24-Hour,Not Available,On-Call
+106450940,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,On-Call
+106450949,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106454012,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106454013,On-Call,On-Call,On-Call,On-Call,On-Call,Not Available,On-Call
+106454068,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106470871,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106474007,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106480989,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106481015,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106481094,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106481357,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106484001,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106484044,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106484062,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106490040,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106490907,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106490964,24-Hour,24-Hour,24-Hour,On-Call,24-Hour,On-Call,24-Hour
+106491001,24-Hour,24-Hour,24-Hour,On-Call,24-Hour,On-Call,24-Hour
+106491064,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106491076,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106491338,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106494019,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106494048,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106494106,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106500852,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106500867,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106500939,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106500954,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106500967,24-Hour,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106501016,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106504038,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106504042,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106504079,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106504081,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106514001,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106514005,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106514030,On-Call,On-Call,On-Call,On-Call,On-Call,Not Available,On-Call
+106514033,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106521041,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,Not Available,24-Hour
+106524017,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106531059,On-Call,On-Call,On-Call,On-Call,24-Hour,On-Call,On-Call
+106540734,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106540798,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106540816,24-Hour,24-Hour,24-Hour,On-Call,24-Hour,Not Available,24-Hour
+106541123,Not Available,24-Hour,Not Available,24-Hour,24-Hour,Not Available,24-Hour
+106552209,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106554011,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106560203,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106560473,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106560481,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+106560501,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106560508,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106560521,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,On-Call
+106560525,On-Call,24-Hour,On-Call,24-Hour,24-Hour,On-Call,24-Hour
+106560529,On-Call,24-Hour,24-Hour,24-Hour,24-Hour,On-Call,24-Hour
+106564018,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106564121,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
+106571086,On-Call,24-Hour,On-Call,24-Hour,24-Hour,24-Hour,24-Hour
+106574010,On-Call,24-Hour,On-Call,On-Call,24-Hour,On-Call,24-Hour
+106580996,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour,24-Hour
+206274027,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported,Not Reported
